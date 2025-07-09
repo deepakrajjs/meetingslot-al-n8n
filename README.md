@@ -7,7 +7,7 @@ An automated meeting slot booking system built using N8N. This project helps use
 ## 🚀 Features
 
 - 📥 Accepts meeting slot requests via webhook
-- 🗓️ Validates available slots from a predefined calendar 
+- 🗓️ Validates available slots from a predefined calendar  
 - ✅ Confirms the selected slot automatically
 - 📧 Sends email (or message) confirmation to participants
 - 🔄 Easily customizable for Google Calendar, Notion, or Telegram
